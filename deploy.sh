@@ -1,6 +1,6 @@
 #!/bin/bash
 
-set -e
+set -xe
 
 SCRIPT=$(realpath "$0")
 DIR=$(dirname "$SCRIPT")
